@@ -1,2 +1,2 @@
 # JeuDuChemin
-Projet Info TSP 2016-2017
+Projet Informatique PRO:3600 TSP 2016-2017
